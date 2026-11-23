@@ -3,7 +3,7 @@
     "minVersion":  "1.0.0",
     "pubDate":  "2026-11-23",
     "force":  false,
-    "sha256":  "c356fe0e7017eda805e7625286768cd131049895f8f01415bc62446381c9045c",
+    "sha256":  "aa416a28d1d392532e4bea498b388be4c2c676e4262a6e2422d6db411ce6df1f",
     "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.0",
     "notes":  [
                   "正式发布 v1.0.0：桌面宠物 + 实时秒薪 + 考勤加班 + 劳动法速查 + 个人简历与全国岗位广场",
