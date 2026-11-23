@@ -5,4 +5,4 @@
 - **当前正式版**：`v1.0.0`（Windows x64 NSIS 安装包，仅 **2.53 MB**）
 - **100% 隐私安全**：客户端仅发起只读静态 GET 请求拉取 `version.json`，不携带任何查询参数、设备指纹或用户数据。
 - **下载地址**：前往 [Releases 页面](https://github.com/ping20000/moyu-pet-releases/releases/latest) 下载最新安装包。
-- **SHA-256 校验值 (`v1.0.0`)**：`956b3887356d98e1e877588be0259948f4527597ab1097058efbe6e373efc540`
+- **SHA-256 校验值 (1.0.0)**：`c356fe0e7017eda805e7625286768cd131049895f8f01415bc62446381c9045c`

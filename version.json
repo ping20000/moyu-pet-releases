@@ -1,25 +1,25 @@
 {
-  "version": "1.0.0",
-  "minVersion": "1.0.0",
-  "pubDate": "2026-11-23",
-  "force": false,
-  "sha256": "956b3887356d98e1e877588be0259948f4527597ab1097058efbe6e373efc540",
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.0",
-  "notes": [
-    "正式发布 v1.0.0：桌面宠物 + 实时秒薪 + 考勤加班 + 劳动法速查 + 个人简历与全国岗位广场",
-    "内置 8 款零依赖高质感特效摸鱼小游戏：经典扫雷、摸鱼斗地主、打工消消乐、极速俯视赛车、柴犬海湾钓鱼、商业帝国、人生修仙模拟器、90坦克大战（按 Esc 老板键瞬切伪装）",
-    "本地防窥锁屏 + 离线 Ed25519 硬件指纹授权 + 零隐私上传自动更新通道，纯本地运行极速轻巧（安装包仅 2.53 MB）",
-    "Windows NSIS 安装包支持覆盖升级自动关闭托盘进程并强制重启新版，历史数据与授权全量无损保留"
-  ],
-  "downloads": [
-    {
-      "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.0/moyu-pet_1.0.0_x64-setup.exe",
-      "recommended": true
-    },
-    {
-      "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.0/moyu-pet_1.0.0_x64-setup.exe"
-    }
-  ]
+    "version":  "1.0.0",
+    "minVersion":  "1.0.0",
+    "pubDate":  "2026-11-23",
+    "force":  false,
+    "sha256":  "c356fe0e7017eda805e7625286768cd131049895f8f01415bc62446381c9045c",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.0",
+    "notes":  [
+                  "正式发布 v1.0.0：桌面宠物 + 实时秒薪 + 考勤加班 + 劳动法速查 + 个人简历与全国岗位广场",
+                  "内置 8 款零依赖高质感特效摸鱼小游戏：经典扫雷、摸鱼斗地主、打工消消乐、极速俯视赛车、柴犬海湾钓鱼、商业帝国、人生修仙模拟器、90坦克大战（按 Esc 老板键瞬切伪装）",
+                  "本地防窥锁屏 + 离线 Ed25519 硬件指纹授权 + 零隐私上传自动更新通道，纯本地运行极速轻巧（安装包仅 2.53 MB）",
+                  "Windows NSIS 安装包支持覆盖升级自动关闭托盘进程并强制重启新版，历史数据与授权全量无损保留"
+              ],
+    "downloads":  [
+                      {
+                          "name":  "国内加速直链（推荐）",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.0/moyu-pet_1.0.0_x64-setup.exe",
+                          "recommended":  true
+                      },
+                      {
+                          "name":  "GitHub 官方直链",
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.0/moyu-pet_1.0.0_x64-setup.exe"
+                      }
+                  ]
 }
