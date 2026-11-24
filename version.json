@@ -1,23 +1,23 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minVersion": "1.0.0",
   "pubDate": "2026-11-24",
   "force": false,
-  "sha256": "3344867aa7d8d73959d2abe7fb8a5ebe9a57ca9cec433f4bac604e7d200a93eb",
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.3",
+  "sha256": "b73fa3195bf33e89e2f5e511fec84cad38f567be32f4344fab0aa25f445390fc",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.4",
   "notes": [
-    "微信安全守护支持自定义微信昵称与微信号展示（零封号风险）：登记一次即可直接显示您的昵称与微信号，并随授权卡密跨电脑自动带出",
-    "支持从 v1.0.2 起一键无感静默升级，自动校验 SHA-256 并重启新版，数据与授权 100% 保留"
+    "新增开发者后台「💳 收款码同步」与全网客户端热更新：后台更换微信/支付宝收款码后一键同步，客户端打开授权窗口自动展示最新收款码，无需重打包",
+    "彻底清除全部输入框中的示例个人账号与昵称占位符，界面更干净规范"
   ],
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.3/moyu-pet_1.0.3_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.4/moyu-pet_1.0.4_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.3/moyu-pet_1.0.3_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.4/moyu-pet_1.0.4_x64-setup.exe"
     }
   ]
 }
