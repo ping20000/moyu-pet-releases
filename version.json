@@ -1,25 +1,25 @@
 {
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "pubDate":  "2026-11-24",
     "downloads":  [
                       {
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.7/moyu-pet_1.0.7_x64-setup.exe",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.8/moyu-pet_1.0.8_x64-setup.exe",
                           "name":  "国内加速直链（推荐）",
                           "recommended":  true
                       },
                       {
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.7/moyu-pet_1.0.7_x64-setup.exe",
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.8/moyu-pet_1.0.8_x64-setup.exe",
                           "name":  "GitHub 官方直链",
                           "recommended":  false
                       }
                   ],
-    "sha256":  "afc3dad3f38496f446e66525d9232af6c12d47ba8028a2ff42e0a6c74de8a36a",
+    "sha256":  "5a67e50738ede06bd88b5e84396ab1e62b0f49e7644dd183dca6473184976aaa",
     "force":  false,
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.7",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.8",
     "notes":  [
-                  "⚡ 接入爱发电全自动支付检测与秒级无感解锁：支持微信/支付宝扫码或一键支付，付款成功 3 秒内自动签发解锁，彻底告别人工核对与无效单骚扰",
-                  "🧾 新增凭爱发电真实订单号一键找回解锁：由云端直连爱发电官方接口验真，严防未付款乱填或跨账号盗用",
-                  "📊 开发者后台自动同步爱发电实收订单至用户花名册与总营收台账，并修复旧缓存配置残留问题"
+                  "🛠️ 彻底修复一键静默升级下载到 100% 闪退未安装的问题（改为直接拉起 NSIS 安装程序，消除 Windows cmd 引号转义导致的静默启动失败）",
+                  "⚡ 接入爱发电全自动支付检测与 3 秒无感解锁：支持微信/支付宝扫码或一键支付，付款成功自动签发解锁，彻底告别人工核对与无效单",
+                  "🧾 支持凭爱发电订单号直连官方接口验真找回解锁，开发者后台自动同步实收订单至花名册与总营收台账"
               ],
     "minVersion":  "1.0.0"
 }
