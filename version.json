@@ -1,23 +1,24 @@
 {
-    "version":  "1.0.5",
-    "minVersion":  "1.0.0",
-    "pubDate":  "2026-11-24",
-    "force":  false,
-    "sha256":  "5087123bc3496d20cac79542a851c1130be2b7a9289276452f699b7485c21c20",
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.5",
-    "notes":  [
-                  "新增开发者后台「💳 收款码同步」与全网客户端热更新：后台更换微信/支付宝收款码后一键同步，客户端打开授权窗口自动展示最新收款码，无需重打包",
-                  "彻底清除全部输入框中的示例个人账号与昵称占位符，界面更干净规范"
-              ],
-    "downloads":  [
-                      {
-                          "name":  "国内加速直链（推荐）",
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe",
-                          "recommended":  true
-                      },
-                      {
-                          "name":  "GitHub 官方直链",
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe"
-                      }
-                  ]
+  "version": "1.0.5",
+  "minVersion": "1.0.0",
+  "pubDate": "2026-11-24",
+  "force": false,
+  "sha256": "5087123bc3496d20cac79542a851c1130be2b7a9289276452f699b7485c21c20",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.5",
+  "notes": [
+    "🛡️ 彻底修复付费授权安全漏洞：移除客户端内置私钥与任意单号自签解锁逻辑，改由后台审核实际到账后安全签发并自动回传无感解锁",
+    "🔔 开发者后台新增「待审核付费订单」队列：支持实时接收客户付款核验单、改按实际到账套餐签发（防¥1激活¥12/¥20）、一键审核自动录入用户花名册与营收流水",
+    "🚀 优化新版本检测通道顺序：优先直连实时源（国内镜像/GitHub官方直连），彻底告别 CDN 缓存延迟导致查不到新版的问题"
+  ],
+  "downloads": [
+    {
+      "name": "国内加速直链（推荐）",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe",
+      "recommended": true
+    },
+    {
+      "name": "GitHub 官方直链",
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe"
+    }
+  ]
 }
