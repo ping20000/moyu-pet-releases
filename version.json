@@ -1,24 +1,24 @@
 {
-  "version": "1.0.5",
-  "minVersion": "1.0.0",
-  "pubDate": "2026-11-24",
-  "force": false,
-  "sha256": "5087123bc3496d20cac79542a851c1130be2b7a9289276452f699b7485c21c20",
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.5",
-  "notes": [
-    "🛡️ 彻底修复付费授权安全漏洞：移除客户端内置私钥与任意单号自签解锁逻辑，改由后台审核实际到账后安全签发并自动回传无感解锁",
-    "🔔 开发者后台新增「待审核付费订单」队列：支持实时接收客户付款核验单、改按实际到账套餐签发（防¥1激活¥12/¥20）、一键审核自动录入用户花名册与营收流水",
-    "🚀 优化新版本检测通道顺序：优先直连实时源（国内镜像/GitHub官方直连），彻底告别 CDN 缓存延迟导致查不到新版的问题"
-  ],
-  "downloads": [
-    {
-      "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe",
-      "recommended": true
-    },
-    {
-      "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe"
-    }
-  ]
+    "version":  "1.0.6",
+    "minVersion":  "1.0.0",
+    "pubDate":  "2026-11-24",
+    "force":  false,
+    "sha256":  "5973b2fe25f351eb37be8a698f53d2df590bab430ab04423d0df2766ce23ae7e",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.6",
+    "notes":  [
+                  "🔧 彻底修复一键无感静默升级到 100% 时闪退未重启的问题（移除 NSIS 进程树误杀并改用独立后台延迟拉起，覆盖升级更丝滑）",
+                  "🛡️ 全面启用安全付费核验与后台审核机制：客户端零私钥、提交账单后 4 位由后台核对实付金额后 3 秒自动无感解锁并录入花名册",
+                  "☁️ 内置永久免费云端通道（系统客服与付费审核队列开箱即连）+ 实时源优先检测新版本"
+              ],
+    "downloads":  [
+                      {
+                          "name":  "国内加速直链（推荐）",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.6/moyu-pet_1.0.6_x64-setup.exe",
+                          "recommended":  true
+                      },
+                      {
+                          "name":  "GitHub 官方直链",
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.6/moyu-pet_1.0.6_x64-setup.exe"
+                      }
+                  ]
 }
