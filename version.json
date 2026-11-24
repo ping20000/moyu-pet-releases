@@ -1,23 +1,23 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minVersion": "1.0.0",
   "pubDate": "2026-11-24",
   "force": false,
-  "sha256": "242efc6409ec5e05d1f1c36c0e73830151caa95e59a15c594e78dcaabdd3384e",
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.2",
+  "sha256": "3344867aa7d8d73959d2abe7fb8a5ebe9a57ca9cec433f4bac604e7d200a93eb",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.3",
   "notes": [
-    "新增一键无感静默升级：应用内多通道自动下载 → 校验 SHA-256 完整性 → 静默覆盖安装并自动重启，告别手动点安装包",
-    "包含强制微信账号安全守护模式、换电脑同微信无缝续用、独立「💬 系统客服」与 60fps 丝滑全息觉醒动画"
+    "微信安全守护支持自定义微信昵称与微信号展示（零封号风险）：登记一次即可直接显示您的昵称与微信号，并随授权卡密跨电脑自动带出",
+    "支持从 v1.0.2 起一键无感静默升级，自动校验 SHA-256 并重启新版，数据与授权 100% 保留"
   ],
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.2/moyu-pet_1.0.2_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.3/moyu-pet_1.0.3_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.2/moyu-pet_1.0.2_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.3/moyu-pet_1.0.3_x64-setup.exe"
     }
   ]
 }
