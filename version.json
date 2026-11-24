@@ -1,25 +1,24 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "pubDate":  "2026-11-24",
     "downloads":  [
                       {
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.8/moyu-pet_1.0.8_x64-setup.exe",
                           "name":  "国内加速直链（推荐）",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.9/moyu-pet_1.0.9_x64-setup.exe",
                           "recommended":  true
                       },
                       {
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.8/moyu-pet_1.0.8_x64-setup.exe",
                           "name":  "GitHub 官方直链",
-                          "recommended":  false
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.9/moyu-pet_1.0.9_x64-setup.exe"
                       }
                   ],
-    "sha256":  "5a67e50738ede06bd88b5e84396ab1e62b0f49e7644dd183dca6473184976aaa",
     "force":  false,
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.8",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.9",
     "notes":  [
-                  "🛠️ 彻底修复一键静默升级下载到 100% 闪退未安装的问题（改为直接拉起 NSIS 安装程序，消除 Windows cmd 引号转义导致的静默启动失败）",
-                  "⚡ 接入爱发电全自动支付检测与 3 秒无感解锁：支持微信/支付宝扫码或一键支付，付款成功自动签发解锁，彻底告别人工核对与无效单",
-                  "🧾 支持凭爱发电订单号直连官方接口验真找回解锁，开发者后台自动同步实收订单至花名册与总营收台账"
+                  "🔄 切换登录其他微信号时自动登出旧账号并直接读取当前登录微信（彻底修复切号后串显旧微信昵称与授权提示的问题，支持多微信号各自独立保存授权、切回原号依然无缝续用）",
+                  "🔀 新增微信多开账号选择器：检测到电脑同时登录多个微信时，可在授权面板、侧边栏底部及系统设置中一键自由选择当前要登录/授权的微信账号",
+                  "🛡️ 优化微信 4.x/3.x 多开底层文件锁扫描稳定性与固定排序，杜绝多开场景下账号列表跳动"
               ],
-    "minVersion":  "1.0.0"
+    "minVersion":  "1.0.0",
+    "sha256":  "275106d75159acd166c01389ccc852bf082b6ab3a7f210f5e20ec49c845b4b63"
 }
