@@ -1,25 +1,23 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minVersion": "1.0.0",
   "pubDate": "2026-11-24",
   "force": false,
-  "sha256": "54361132b17aa61c5110ce542be1b6280b9bb0e90813bd3af66ec989715e1e2c",
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.1",
+  "sha256": "242efc6409ec5e05d1f1c36c0e73830151caa95e59a15c594e78dcaabdd3384e",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.2",
   "notes": [
-    "新增强制微信账号安全守护模式：付费绑定当前登录微信号，退出或切换微信3秒自动全锁隐私（含薪资与税务），登录即无感秒解锁",
-    "支持换电脑无缝续用：授权令牌绑定微信号安全指纹（兼容微信3.x/4.x与自定义路径，零侵入零封号风险），新电脑登录同一微信即可续用",
-    "新增「💬 系统客服」独立入口与开发者后台客服工作台，移除联系作者入口，支持卡密一键激活",
-    "深度优化开场全息觉醒粒子动画至丝滑60帧，重构左侧4大类折叠导航与未激活授权限制"
+    "新增一键无感静默升级：应用内多通道自动下载 → 校验 SHA-256 完整性 → 静默覆盖安装并自动重启，告别手动点安装包",
+    "包含强制微信账号安全守护模式、换电脑同微信无缝续用、独立「💬 系统客服」与 60fps 丝滑全息觉醒动画"
   ],
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.1/moyu-pet_1.0.1_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.2/moyu-pet_1.0.2_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.1/moyu-pet_1.0.1_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.2/moyu-pet_1.0.2_x64-setup.exe"
     }
   ]
 }
