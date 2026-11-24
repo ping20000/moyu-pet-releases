@@ -1,24 +1,24 @@
 {
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "pubDate":  "2026-11-24",
     "downloads":  [
                       {
                           "name":  "国内加速直链（推荐）",
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.9/moyu-pet_1.0.9_x64-setup.exe",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.10/moyu-pet_1.0.10_x64-setup.exe",
                           "recommended":  true
                       },
                       {
                           "name":  "GitHub 官方直链",
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.9/moyu-pet_1.0.9_x64-setup.exe"
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.10/moyu-pet_1.0.10_x64-setup.exe"
                       }
                   ],
     "force":  false,
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.9",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.10",
     "notes":  [
-                  "🔄 切换登录其他微信号时自动登出旧账号并直接读取当前登录微信（彻底修复切号后串显旧微信昵称与授权提示的问题，支持多微信号各自独立保存授权、切回原号依然无缝续用）",
-                  "🔀 新增微信多开账号选择器：检测到电脑同时登录多个微信时，可在授权面板、侧边栏底部及系统设置中一键自由选择当前要登录/授权的微信账号",
-                  "🛡️ 优化微信 4.x/3.x 多开底层文件锁扫描稳定性与固定排序，杜绝多开场景下账号列表跳动"
+                  "🔐 新增分微信号独立 AES-256-GCM 加密保险库：切换微信或微信多开切号时，不同微信号的薪资/简历/履历/待办/知识库/聊天记忆/游戏存档 100% 彻底隔开并独立加密封存，退出微信后本机零明文残留",
+                  "🛡️ 密钥与 Windows 凭据库 + 微信号指纹双重绑定，哪怕拷贝本地文件也无法被其他微信号或异机直接读取",
+                  "🔑 备份导出强制高强度口令加密（.moyupack），将本地数据导入到不同微信号时一律拦截未加密文件、必须输入正确密码解密方可使用"
               ],
     "minVersion":  "1.0.0",
-    "sha256":  "275106d75159acd166c01389ccc852bf082b6ab3a7f210f5e20ec49c845b4b63"
+    "sha256":  "dddb60db4c6c350634c72daecd83d4626358a1edf15bb4e7ddd420fd7b127bc3"
 }
