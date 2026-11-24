@@ -1,24 +1,23 @@
 {
-    "version":  "1.0.11",
+    "version":  "1.0.12",
     "pubDate":  "2026-11-24",
     "downloads":  [
                       {
                           "name":  "国内加速直链（推荐）",
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.11/moyu-pet_1.0.11_x64-setup.exe",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.12/moyu-pet_1.0.12_x64-setup.exe",
                           "recommended":  true
                       },
                       {
                           "name":  "GitHub 官方直链",
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.11/moyu-pet_1.0.11_x64-setup.exe"
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.12/moyu-pet_1.0.12_x64-setup.exe"
                       }
                   ],
     "force":  false,
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.11",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.12",
     "notes":  [
-                  "🔑 全网轮换全新 Ed25519 数字签名密钥体系：旧版历史测试私钥已彻底作废，全面防止旧版伪造激活码",
-                  "🔐 延续分微信号独立 AES-256-GCM 加密保险库与微信多开自由选号、跨微信号导入强制密码解密保护",
-                  "⚡ 爱发电全自动支付检测与 3 秒无感解锁同步升级至全新云端签名密钥"
+                  "🔄 新增微信登录云端已购授权自动同步：换电脑、重装或密钥升级后，只要登录已充值微信号即刻自动从云端验签恢复授权，无需手动找回或贴卡密",
+                  "🔐 包含分微信号 AES-256-GCM 独立加密保险库、微信多开自由选号与全新 Ed25519 签名体系"
               ],
     "minVersion":  "1.0.0",
-    "sha256":  "eebeb7ab34af4924adf2c5cea7c9e037f08fbe40be15db61fb3fe08562f4d395"
+    "sha256":  "033361b1b4087501f172d81309170653cc5f4cbb34fa1fb5701fa14f4f3dc262"
 }
