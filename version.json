@@ -1,23 +1,23 @@
 {
-  "version": "1.0.4",
-  "minVersion": "1.0.0",
-  "pubDate": "2026-11-24",
-  "force": false,
-  "sha256": "b73fa3195bf33e89e2f5e511fec84cad38f567be32f4344fab0aa25f445390fc",
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.4",
-  "notes": [
-    "新增开发者后台「💳 收款码同步」与全网客户端热更新：后台更换微信/支付宝收款码后一键同步，客户端打开授权窗口自动展示最新收款码，无需重打包",
-    "彻底清除全部输入框中的示例个人账号与昵称占位符，界面更干净规范"
-  ],
-  "downloads": [
-    {
-      "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.4/moyu-pet_1.0.4_x64-setup.exe",
-      "recommended": true
-    },
-    {
-      "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.4/moyu-pet_1.0.4_x64-setup.exe"
-    }
-  ]
+    "version":  "1.0.5",
+    "minVersion":  "1.0.0",
+    "pubDate":  "2026-11-24",
+    "force":  false,
+    "sha256":  "5087123bc3496d20cac79542a851c1130be2b7a9289276452f699b7485c21c20",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.5",
+    "notes":  [
+                  "新增开发者后台「💳 收款码同步」与全网客户端热更新：后台更换微信/支付宝收款码后一键同步，客户端打开授权窗口自动展示最新收款码，无需重打包",
+                  "彻底清除全部输入框中的示例个人账号与昵称占位符，界面更干净规范"
+              ],
+    "downloads":  [
+                      {
+                          "name":  "国内加速直链（推荐）",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe",
+                          "recommended":  true
+                      },
+                      {
+                          "name":  "GitHub 官方直链",
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.5/moyu-pet_1.0.5_x64-setup.exe"
+                      }
+                  ]
 }
