@@ -1,24 +1,24 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "pubDate":  "2026-11-24",
     "downloads":  [
                       {
                           "name":  "国内加速直链（推荐）",
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.10/moyu-pet_1.0.10_x64-setup.exe",
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.11/moyu-pet_1.0.11_x64-setup.exe",
                           "recommended":  true
                       },
                       {
                           "name":  "GitHub 官方直链",
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.10/moyu-pet_1.0.10_x64-setup.exe"
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.11/moyu-pet_1.0.11_x64-setup.exe"
                       }
                   ],
     "force":  false,
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.10",
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.11",
     "notes":  [
-                  "🔐 新增分微信号独立 AES-256-GCM 加密保险库：切换微信或微信多开切号时，不同微信号的薪资/简历/履历/待办/知识库/聊天记忆/游戏存档 100% 彻底隔开并独立加密封存，退出微信后本机零明文残留",
-                  "🛡️ 密钥与 Windows 凭据库 + 微信号指纹双重绑定，哪怕拷贝本地文件也无法被其他微信号或异机直接读取",
-                  "🔑 备份导出强制高强度口令加密（.moyupack），将本地数据导入到不同微信号时一律拦截未加密文件、必须输入正确密码解密方可使用"
+                  "🔑 全网轮换全新 Ed25519 数字签名密钥体系：旧版历史测试私钥已彻底作废，全面防止旧版伪造激活码",
+                  "🔐 延续分微信号独立 AES-256-GCM 加密保险库与微信多开自由选号、跨微信号导入强制密码解密保护",
+                  "⚡ 爱发电全自动支付检测与 3 秒无感解锁同步升级至全新云端签名密钥"
               ],
     "minVersion":  "1.0.0",
-    "sha256":  "dddb60db4c6c350634c72daecd83d4626358a1edf15bb4e7ddd420fd7b127bc3"
+    "sha256":  "eebeb7ab34af4924adf2c5cea7c9e037f08fbe40be15db61fb3fe08562f4d395"
 }
