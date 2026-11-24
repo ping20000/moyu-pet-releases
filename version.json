@@ -1,24 +1,25 @@
 {
-    "version":  "1.0.6",
-    "minVersion":  "1.0.0",
+    "version":  "1.0.7",
     "pubDate":  "2026-11-24",
-    "force":  false,
-    "sha256":  "5973b2fe25f351eb37be8a698f53d2df590bab430ab04423d0df2766ce23ae7e",
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.6",
-    "notes":  [
-                  "🔧 彻底修复一键无感静默升级到 100% 时闪退未重启的问题（移除 NSIS 进程树误杀并改用独立后台延迟拉起，覆盖升级更丝滑）",
-                  "🛡️ 全面启用安全付费核验与后台审核机制：客户端零私钥、提交账单后 4 位由后台核对实付金额后 3 秒自动无感解锁并录入花名册",
-                  "☁️ 内置永久免费云端通道（系统客服与付费审核队列开箱即连）+ 实时源优先检测新版本"
-              ],
     "downloads":  [
                       {
+                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.7/moyu-pet_1.0.7_x64-setup.exe",
                           "name":  "国内加速直链（推荐）",
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.6/moyu-pet_1.0.6_x64-setup.exe",
                           "recommended":  true
                       },
                       {
+                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.7/moyu-pet_1.0.7_x64-setup.exe",
                           "name":  "GitHub 官方直链",
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.6/moyu-pet_1.0.6_x64-setup.exe"
+                          "recommended":  false
                       }
-                  ]
+                  ],
+    "sha256":  "afc3dad3f38496f446e66525d9232af6c12d47ba8028a2ff42e0a6c74de8a36a",
+    "force":  false,
+    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.7",
+    "notes":  [
+                  "⚡ 接入爱发电全自动支付检测与秒级无感解锁：支持微信/支付宝扫码或一键支付，付款成功 3 秒内自动签发解锁，彻底告别人工核对与无效单骚扰",
+                  "🧾 新增凭爱发电真实订单号一键找回解锁：由云端直连爱发电官方接口验真，严防未付款乱填或跨账号盗用",
+                  "📊 开发者后台自动同步爱发电实收订单至用户花名册与总营收台账，并修复旧缓存配置残留问题"
+              ],
+    "minVersion":  "1.0.0"
 }
