@@ -1,23 +1,23 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "pubDate": "2026-11-26",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.18/moyu-pet_1.0.18_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.19/moyu-pet_1.0.19_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.18/moyu-pet_1.0.18_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.19/moyu-pet_1.0.19_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.18",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.19",
   "notes": [
-    "桌宠交互升级为「点击唤出 + 自动收起」：平时悬停零误触、零挡手，轻点桌宠伴随清脆可爱短音效弹出信息卡片与底部三按钮，5 秒无操作自动收起（悬停卡片/输入时自动暂停）",
-    "彻底修复透明窗口隐形遮挡 Bug：收起态热区精准收紧至角色躯干，周围 100% 物理穿透桌面，并禁用浏览器默认右键菜单"
+    "桌宠升级为「双窗口分离架构（方案 2）」：小人永久缩小为 140×140 贴身迷你窗，上方与两侧 100% 物理无遮挡，微信视频/发送按钮与桌面右键全部原生直达",
+    "实时入账卡片、底部三按钮、待办与秘书输入迁移至独立透明浮窗，平时系统级彻底隐藏（绝不挡手、绝不黑底），轻点小人伴随可爱短音效丝滑弹出、触顶自动避让、超时自动隐藏"
   ],
   "minVersion": "1.0.0",
-  "sha256": "10f02c3d0ab46f776a88170c729e43e9879d218ba8f0c25b4bc1bbdc99c245cf"
+  "sha256": "8147246aca391bd07bb090bb6901b686a83eaadd3e1680e850e2c627b86cf1a9"
 }
