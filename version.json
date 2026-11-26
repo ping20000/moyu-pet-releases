@@ -1,24 +1,23 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "pubDate": "2026-11-26",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.17/moyu-pet_1.0.17_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.18/moyu-pet_1.0.18_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.17/moyu-pet_1.0.17_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.18/moyu-pet_1.0.18_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.17",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.18",
   "notes": [
-    "桌宠快捷输入升级「方案 C」：支持 ✨智能 / 📝待办 / 💬闲聊 三模式（点击或 Tab 秒切），支持 # 前缀强制记待办",
-    "精准区分职场待办与情绪闲聊（订单002等短业务词 100% 自动入待办，不再误判「今天有点累」等闲聊）",
-    "闲聊/未配置 API Key 气泡新增一键「+ 存入待办」兜底按钮，并同步读取系统设置中配置的大模型服务商"
+    "桌宠交互升级为「点击唤出 + 自动收起」：平时悬停零误触、零挡手，轻点桌宠伴随清脆可爱短音效弹出信息卡片与底部三按钮，5 秒无操作自动收起（悬停卡片/输入时自动暂停）",
+    "彻底修复透明窗口隐形遮挡 Bug：收起态热区精准收紧至角色躯干，周围 100% 物理穿透桌面，并禁用浏览器默认右键菜单"
   ],
   "minVersion": "1.0.0",
-  "sha256": "52eee840cbd7a076056d896e1d9e291ab089529c6666799bb837ad2dd579b673"
+  "sha256": "10f02c3d0ab46f776a88170c729e43e9879d218ba8f0c25b4bc1bbdc99c245cf"
 }
