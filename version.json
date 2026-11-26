@@ -1,23 +1,23 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "pubDate": "2026-11-26",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.20/moyu-pet_1.0.20_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.21/moyu-pet_1.0.21_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.20/moyu-pet_1.0.20_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.21/moyu-pet_1.0.21_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.20",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.21",
   "notes": [
-    "修复独立浮窗隐藏时被底层 tao 窗口状态缓存吞掉的问题：强制执行 Win32 ShowWindow(SW_HIDE) 彻底释放桌宠上方点击与右键区域",
-    "同步修复秘书快捷输入条与待办弹窗在独立浮窗呼出时的自动聚焦问题"
+    "「AI 秘书伴侣」全线更名为「AI狗头军师」（同步左侧导航、对话页、长期记忆库、新手引导、桌宠快捷按钮、系统托盘与官网文案）",
+    "老用户历史聊天记录与长期记忆库 100% 无损保留，旧版默认开场白自动平滑升级为 AI狗头军师 专属欢迎语"
   ],
   "minVersion": "1.0.0",
-  "sha256": "61820493f030a92f5f58508c03b75d8d26281321468c492260740f37c9521f30"
+  "sha256": "e11d1678c9eafb6ff637e3bbf200424ff953f5407ba87a524e1e866c0acc431a"
 }
