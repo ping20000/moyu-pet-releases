@@ -4,19 +4,20 @@
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.15/天命打工人系统_1.0.15_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.15/moyu-pet_1.0.15_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.15/天命打工人系统_1.0.15_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.15/moyu-pet_1.0.15_x64-setup.exe"
     }
   ],
   "force": false,
   "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.15",
   "notes": [
-    "一级导航全面采用图2风格角色拟人形象徽标",
+    "左侧一级导航全面实装二次元角色拟人微光圆徽",
     "全息觉醒主舞台星核全面换装柴犬徽章",
+    "左侧二级菜单图形全部彻底拿掉，升级纯净极简文字排版",
     "Windows安装包与桌面快捷方式图标全量换装柴犬Logo"
   ],
   "minVersion": "1.0.0",
