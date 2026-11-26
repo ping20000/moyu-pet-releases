@@ -1,23 +1,24 @@
 {
-    "version":  "1.0.12",
-    "pubDate":  "2026-11-24",
-    "downloads":  [
-                      {
-                          "name":  "国内加速直链（推荐）",
-                          "url":  "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.12/moyu-pet_1.0.12_x64-setup.exe",
-                          "recommended":  true
-                      },
-                      {
-                          "name":  "GitHub 官方直链",
-                          "url":  "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.12/moyu-pet_1.0.12_x64-setup.exe"
-                      }
-                  ],
-    "force":  false,
-    "releasePage":  "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.12",
-    "notes":  [
-                  "🔄 新增微信登录云端已购授权自动同步：换电脑、重装或密钥升级后，只要登录已充值微信号即刻自动从云端验签恢复授权，无需手动找回或贴卡密",
-                  "🔐 包含分微信号 AES-256-GCM 独立加密保险库、微信多开自由选号与全新 Ed25519 签名体系"
-              ],
-    "minVersion":  "1.0.0",
-    "sha256":  "033361b1b4087501f172d81309170653cc5f4cbb34fa1fb5701fa14f4f3dc262"
+  "version": "1.0.15",
+  "pubDate": "2026-11-26",
+  "downloads": [
+    {
+      "name": "国内加速直链（推荐）",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.15/天命打工人系统_1.0.15_x64-setup.exe",
+      "recommended": true
+    },
+    {
+      "name": "GitHub 官方直链",
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.15/天命打工人系统_1.0.15_x64-setup.exe"
+    }
+  ],
+  "force": false,
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.15",
+  "notes": [
+    "一级导航全面采用图2风格角色拟人形象徽标",
+    "全息觉醒主舞台星核全面换装柴犬徽章",
+    "Windows安装包与桌面快捷方式图标全量换装柴犬Logo"
+  ],
+  "minVersion": "1.0.0",
+  "sha256": "025d3faf01aea7995686c0e968f004849c612f4569682ab2c8f7f97ed56610ea"
 }
