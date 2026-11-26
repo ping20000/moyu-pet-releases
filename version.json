@@ -1,23 +1,23 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "pubDate": "2026-11-26",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.19/moyu-pet_1.0.19_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.20/moyu-pet_1.0.20_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.19/moyu-pet_1.0.19_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.20/moyu-pet_1.0.20_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.19",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.20",
   "notes": [
-    "桌宠升级为「双窗口分离架构（方案 2）」：小人永久缩小为 140×140 贴身迷你窗，上方与两侧 100% 物理无遮挡，微信视频/发送按钮与桌面右键全部原生直达",
-    "实时入账卡片、底部三按钮、待办与秘书输入迁移至独立透明浮窗，平时系统级彻底隐藏（绝不挡手、绝不黑底），轻点小人伴随可爱短音效丝滑弹出、触顶自动避让、超时自动隐藏"
+    "修复独立浮窗隐藏时被底层 tao 窗口状态缓存吞掉的问题：强制执行 Win32 ShowWindow(SW_HIDE) 彻底释放桌宠上方点击与右键区域",
+    "同步修复秘书快捷输入条与待办弹窗在独立浮窗呼出时的自动聚焦问题"
   ],
   "minVersion": "1.0.0",
-  "sha256": "8147246aca391bd07bb090bb6901b686a83eaadd3e1680e850e2c627b86cf1a9"
+  "sha256": "61820493f030a92f5f58508c03b75d8d26281321468c492260740f37c9521f30"
 }
