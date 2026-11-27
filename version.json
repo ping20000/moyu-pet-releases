@@ -1,23 +1,23 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.26/moyu-pet_1.0.26_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.27/moyu-pet_1.0.27_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.26/moyu-pet_1.0.26_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.27/moyu-pet_1.0.27_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.26",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.27",
   "notes": [
-    "修复切换微信账号后大模型 API 设置（服务商、接口地址、模型名与系统凭据库 API Key）串用或丢失问题：实现按微信号 100% 独立加密隔离，切号不泄露、切回原号完好恢复",
-    "修复新版本发布后客户端未自动弹窗提示更新的问题：新增常驻桌宠后台巡检 + 控制中心定时与切回前台复检 + moyupet.top 极速静态清单通道，发现新版本自动弹窗引导一键升级"
+    "修复「AI狗头军师」长期记忆库「➕ 增加记忆」与 API 引导卡片主按钮在未悬停时白底白字不可见的样式问题",
+    "优化桌面端按钮对比度与交互反馈"
   ],
   "minVersion": "1.0.0",
-  "sha256": "47129e07ec1925de1cc30dc6fb48ea37c31fe076fe64461bf980fa6d54ecc186"
+  "sha256": "330c772f0a75675c3b670933de455d40b330bd8f655baac25ff9755e030af186"
 }
