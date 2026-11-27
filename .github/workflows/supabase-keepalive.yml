@@ -1,0 +1,28 @@
+name: Supabase Cloud Keepalive
+
+on:
+  schedule:
+    # 每 3 天北京时间上午 10:00 自动执行一次只读保活，防止免费版 7 天无访问休眠
+    - cron: '0 2 */3 * *'
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pay_config.json
+        uses: actions/checkout@v4
+
+      - name: Ping Supabase PostgREST (read-only)
+        run: |
+          URL=$(jq -r '.supportEndpoint.cloudUrl' pay_config.json)
+          KEY=$(jq -r '.supportEndpoint.cloudAnonKey' pay_config.json)
+          STATUS=$(curl -sS -o /dev/null -w "%{http_code}" \
+            -H "apikey: $KEY" \
+            -H "Authorization: Bearer $KEY" \
+            "$URL/rest/v1/support_messages?select=id&limit=1")
+          echo "Supabase keepalive HTTP status: $STATUS"
+          if [ "$STATUS" != "200" ]; then
+            echo "Keepalive failed with HTTP $STATUS"
+            exit 1
+          fi
