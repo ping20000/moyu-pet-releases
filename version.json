@@ -1,23 +1,25 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.28/moyu-pet_1.0.28_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.29/moyu-pet_1.0.29_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.28/moyu-pet_1.0.28_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.29/moyu-pet_1.0.29_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.28",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.29",
   "notes": [
-    "新增订阅激活自动通知：客户支付或使用激活码激活成功后，自动向当前微信账号的「系统客服」推送官方订阅凭证通知（含套餐规格、有效期、绑定微信授权码与订单凭证，切号隔离且幂等防重）",
-    "优化「系统客服」订阅凭证消息卡片样式与侧边栏红点即时提醒"
+    "全员 6 大角色满血升级 36 帧真肢体实动：为赤橙逻辑大小姐、元气豆包妹、翠影全能前辈、星芒双子少女补齐加班、休假、播报共 12 套 4 帧序列动图",
+    "全面提升桌宠帧率节奏与画幅锐度：对齐官网级利落动作速度、扩大有效画幅占比、优化戳一戳完整循环，并激活气泡提醒时的 4 帧说话播报形态与工作间隙原地走动",
+    "新增桌宠实时缩放（85% / 100% / 120% / 135% 四档，智能锚定防出屏）与桌面动作自由锁定模式",
+    "重构控制中心「皮肤与外观」衣帽间：升级官网同款 168px 常亮动态大舞台、9 大动作胶囊一键试玩与 6 角色精致切换网格"
   ],
   "minVersion": "1.0.0",
-  "sha256": "bad2f180e5bc170e8f7a697467d4dceb0e99d4d3d4dc6be19fd50bf06ad4136d"
+  "sha256": "4e73bc2dd507801b8c0fb415a7f6eaed00249fe2dde1b47e72e772a632ef5fda"
 }
