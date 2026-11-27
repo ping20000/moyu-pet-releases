@@ -1,25 +1,25 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.29/moyu-pet_1.0.29_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.30/moyu-pet_1.0.30_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.29/moyu-pet_1.0.29_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.30/moyu-pet_1.0.30_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.29",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.30",
   "notes": [
-    "全员 6 大角色满血升级 36 帧真肢体实动：为赤橙逻辑大小姐、元气豆包妹、翠影全能前辈、星芒双子少女补齐加班、休假、播报共 12 套 4 帧序列动图",
-    "全面提升桌宠帧率节奏与画幅锐度：对齐官网级利落动作速度、扩大有效画幅占比、优化戳一戳完整循环，并激活气泡提醒时的 4 帧说话播报形态与工作间隙原地走动",
-    "新增桌宠实时缩放（85% / 100% / 120% / 135% 四档，智能锚定防出屏）与桌面动作自由锁定模式",
-    "重构控制中心「皮肤与外观」衣帽间：升级官网同款 168px 常亮动态大舞台、9 大动作胶囊一键试玩与 6 角色精致切换网格"
+    "全新重构桌面悬浮伴侣卡（HUD）：6 大角色专属主题色自动联动（鲸鱼娘深海蓝 / 柴犬暖橘 / 豆包妹樱粉 / 翠影薄荷青 / 星芒蓝紫 / 大小姐绯橘），完美适配浅色、深色与毛玻璃主题",
+    "重塑信息层级与即时爽感：升级大号等宽金融级主角金额（点击即可一键切换「今日入账 / 本月到手」主显）、新增角色色渐变今日进度条与实时脉动秒薪徽章",
+    "告别漂浮黑棕药丸：底部三功能融为一体化轻盈 Dock 操作栏，并新增上下智能翻转的气泡小尾尖精准指向桌宠头顶，深浅壁纸均清晰通透",
+    "全套替换系统模糊 Emoji 为精绘线性 SVG 图标，同步焕新说话气泡、快捷待办与狗头军师输入条，并全面打通极简 / 标准 / 详细三档密度与透明度调节"
   ],
   "minVersion": "1.0.0",
-  "sha256": "4e73bc2dd507801b8c0fb415a7f6eaed00249fe2dde1b47e72e772a632ef5fda"
+  "sha256": "3b101413c7348c716a631c84434924180f1a78a6ff702f91417ec450138ad553"
 }
