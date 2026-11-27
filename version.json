@@ -1,25 +1,24 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.32/moyu-pet_1.0.32_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.33/moyu-pet_1.0.33_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.32/moyu-pet_1.0.32_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.33/moyu-pet_1.0.33_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.32",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.33",
   "notes": [
-    "全站 15 大核心模块 × 3 档护眼主题（暖白 / 松茶护眼 / 静谧暗夜）全角落深度排查与精修：彻底消除暗夜模式下的亮白残留与低对比度文字",
-    "周/日报 PPT 工作室外框、舞台底垫、底部 AI 助手与弹窗全面适配三档主题（完整保留 12 套幻灯片原真导出色彩）；考勤日历、加班明细与待办筛选胶囊暗夜清晰可读",
-    "松茶护眼模式专属配色精修：重塑桌宠衣帽间舞台与常驻动作按钮、全国收入榜头卡、求职巡航采集助手横幅，视觉风格高度统一不突兀",
-    "个人简历编辑器卡片、履历在职时间线、薪资城市预设、右侧悬浮抽屉书签及系统设置卡片全面细节打磨，确保多端多主题零死角体验"
+    "桌面宠物悬浮卡与说话气泡重影根除：移除透明窗体无效的 backdrop-filter 并重构阴影衰减半径与透明缓冲留白，浅色/雪地壁纸上彻底告别矩形灰边与尾尖叠色",
+    "健康与久坐等提醒去重优化：提醒统一由桌宠上方气泡优雅播报并记入提醒日志，不再重复弹出 Windows 右下角系统通知遮挡桌宠",
+    "继承 v1.0.32 全站 15 大模块 × 3 档护眼主题（暖白 / 松茶护眼 / 静谧暗夜）全角落深度精修，零损保留既有授权、账本与本地配置"
   ],
   "minVersion": "1.0.0",
-  "sha256": "3e666cda9813253d34fe9b8a42b15bc09769dda051748217812994a304d234bc"
+  "sha256": "78aad5b4ee531868e73224ee86097ad48813bbcdc9b00ac9cfb6d5c6386e9f23"
 }
