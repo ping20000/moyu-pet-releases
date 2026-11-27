@@ -1,22 +1,23 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.23/moyu-pet_1.0.23_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.24/moyu-pet_1.0.24_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.23/moyu-pet_1.0.23_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.24/moyu-pet_1.0.24_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.23",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.24",
   "notes": [
-    "客户端内置官方主页与客服官网入口正式升级为独立品牌域名 https://moyupet.top/"
+    "新增极简匿名在线与版本健康度统计（零个人隐私、不采微信号与本地数据，静默低频运行）",
+    "优化线上版本服务稳定性与覆盖升级体验"
   ],
   "minVersion": "1.0.0",
-  "sha256": "eda44d8b528af68282de2371bca5ceab83c26c12ac4c91c8c81237902a72bb2e"
+  "sha256": "32f8804e129a34fc747a4061ec5166bfceecc56c9252bab78ddaf1d57e4e6f80"
 }
