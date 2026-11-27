@@ -1,23 +1,23 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.24/moyu-pet_1.0.24_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.25/moyu-pet_1.0.25_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.24/moyu-pet_1.0.24_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.25/moyu-pet_1.0.25_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.24",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.25",
   "notes": [
-    "新增极简匿名在线与版本健康度统计（零个人隐私、不采微信号与本地数据，静默低频运行）",
-    "优化线上版本服务稳定性与覆盖升级体验"
+    "新增官方通用激活码（MOYUK-）支持：未激活前不绑定微信，首次激活自动永久绑定当前登录微信号，一码仅限绑定一个微信，换电脑登录同微信无缝续用",
+    "优化系统客服界面：优先展示并一键附带当前登录微信的 16 位授权码，修复客服消息内一键激活的微信登录态核验"
   ],
   "minVersion": "1.0.0",
-  "sha256": "32f8804e129a34fc747a4061ec5166bfceecc56c9252bab78ddaf1d57e4e6f80"
+  "sha256": "7dea1df3594f6919c63e849d870da1ea227de92af8e2c03304697d83e7934ae4"
 }
