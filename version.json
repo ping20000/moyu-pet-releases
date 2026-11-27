@@ -1,23 +1,22 @@
 {
-  "version": "1.0.21",
-  "pubDate": "2026-11-26",
+  "version": "1.0.22",
+  "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.21/moyu-pet_1.0.21_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.22/moyu-pet_1.0.22_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.21/moyu-pet_1.0.21_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.22/moyu-pet_1.0.22_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.21",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.22",
   "notes": [
-    "「AI 秘书伴侣」全线更名为「AI狗头军师」（同步左侧导航、对话页、长期记忆库、新手引导、桌宠快捷按钮、系统托盘与官网文案）",
-    "老用户历史聊天记录与长期记忆库 100% 无损保留，旧版默认开场白自动平滑升级为 AI狗头军师 专属欢迎语"
+    "安装包极致瘦身（保原分辨率重编码桌宠素材、移除冗余音频并压缩图标），下载更快；修复覆盖升级会清空用户已填大模型 API Key 的问题"
   ],
   "minVersion": "1.0.0",
-  "sha256": "e11d1678c9eafb6ff637e3bbf200424ff953f5407ba87a524e1e866c0acc431a"
+  "sha256": "cf66a020f5de3cdd054b809e341ceb62f7e8f154fa7dd70404fa1516a344bc4d"
 }
