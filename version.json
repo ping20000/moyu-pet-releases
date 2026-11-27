@@ -1,25 +1,25 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.30/moyu-pet_1.0.30_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.31/moyu-pet_1.0.31_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.30/moyu-pet_1.0.30_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.31/moyu-pet_1.0.31_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.30",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.31",
   "notes": [
-    "全新重构桌面悬浮伴侣卡（HUD）：6 大角色专属主题色自动联动（鲸鱼娘深海蓝 / 柴犬暖橘 / 豆包妹樱粉 / 翠影薄荷青 / 星芒蓝紫 / 大小姐绯橘），完美适配浅色、深色与毛玻璃主题",
-    "重塑信息层级与即时爽感：升级大号等宽金融级主角金额（点击即可一键切换「今日入账 / 本月到手」主显）、新增角色色渐变今日进度条与实时脉动秒薪徽章",
-    "告别漂浮黑棕药丸：底部三功能融为一体化轻盈 Dock 操作栏，并新增上下智能翻转的气泡小尾尖精准指向桌宠头顶，深浅壁纸均清晰通透",
-    "全套替换系统模糊 Emoji 为精绘线性 SVG 图标，同步焕新说话气泡、快捷待办与狗头军师输入条，并全面打通极简 / 标准 / 详细三档密度与透明度调节"
+    "控制中心全面升级「官网同源 · 护眼柔光设计系统」：告别刺眼冷白与杂乱冷蓝灰，默认切换温润奶油暖白纸感画布与暖炭墨色阶，久看不累眼",
+    "全新上线控制中心三档护眼主题一键切换（左下角直达）：「奶油暖白」办公温润、「松茶护眼」低蓝光浅绿防眼干、「静谧暗夜」暖炭深灰夜间加班零眩光",
+    "全量统一 13 大功能面板与弹窗语义色阶（薪资税务、履历简历、岗位投递、AI 军师、知识库、客服与授权等），同时保留 A4 简历打印预览与 PPT 幻灯片原真色彩",
+    "多项视觉细节打磨：重构柔和浮岛式右侧抽屉书签、统一侧栏锁屏/授权快捷按钮质感、优化五险一金公积金行柔玉高光，并修复窄屏下「配置已实时同步」被裁切问题"
   ],
   "minVersion": "1.0.0",
-  "sha256": "3b101413c7348c716a631c84434924180f1a78a6ff702f91417ec450138ad553"
+  "sha256": "bc95aa80493a1ff60d133de0be30fb7dab05ec4bc10be3e5f8de0baa130bedea"
 }
