@@ -1,22 +1,22 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.22/moyu-pet_1.0.22_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.23/moyu-pet_1.0.23_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.22/moyu-pet_1.0.22_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.23/moyu-pet_1.0.23_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.22",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.23",
   "notes": [
-    "安装包极致瘦身（保原分辨率重编码桌宠素材、移除冗余音频并压缩图标），下载更快；修复覆盖升级会清空用户已填大模型 API Key 的问题"
+    "客户端内置官方主页与客服官网入口正式升级为独立品牌域名 https://moyupet.top/"
   ],
   "minVersion": "1.0.0",
-  "sha256": "cf66a020f5de3cdd054b809e341ceb62f7e8f154fa7dd70404fa1516a344bc4d"
+  "sha256": "eda44d8b528af68282de2371bca5ceab83c26c12ac4c91c8c81237902a72bb2e"
 }
