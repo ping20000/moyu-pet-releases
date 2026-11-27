@@ -1,25 +1,25 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "pubDate": "2026-11-27",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.31/moyu-pet_1.0.31_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.32/moyu-pet_1.0.32_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.31/moyu-pet_1.0.31_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.32/moyu-pet_1.0.32_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.31",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.32",
   "notes": [
-    "控制中心全面升级「官网同源 · 护眼柔光设计系统」：告别刺眼冷白与杂乱冷蓝灰，默认切换温润奶油暖白纸感画布与暖炭墨色阶，久看不累眼",
-    "全新上线控制中心三档护眼主题一键切换（左下角直达）：「奶油暖白」办公温润、「松茶护眼」低蓝光浅绿防眼干、「静谧暗夜」暖炭深灰夜间加班零眩光",
-    "全量统一 13 大功能面板与弹窗语义色阶（薪资税务、履历简历、岗位投递、AI 军师、知识库、客服与授权等），同时保留 A4 简历打印预览与 PPT 幻灯片原真色彩",
-    "多项视觉细节打磨：重构柔和浮岛式右侧抽屉书签、统一侧栏锁屏/授权快捷按钮质感、优化五险一金公积金行柔玉高光，并修复窄屏下「配置已实时同步」被裁切问题"
+    "全站 15 大核心模块 × 3 档护眼主题（暖白 / 松茶护眼 / 静谧暗夜）全角落深度排查与精修：彻底消除暗夜模式下的亮白残留与低对比度文字",
+    "周/日报 PPT 工作室外框、舞台底垫、底部 AI 助手与弹窗全面适配三档主题（完整保留 12 套幻灯片原真导出色彩）；考勤日历、加班明细与待办筛选胶囊暗夜清晰可读",
+    "松茶护眼模式专属配色精修：重塑桌宠衣帽间舞台与常驻动作按钮、全国收入榜头卡、求职巡航采集助手横幅，视觉风格高度统一不突兀",
+    "个人简历编辑器卡片、履历在职时间线、薪资城市预设、右侧悬浮抽屉书签及系统设置卡片全面细节打磨，确保多端多主题零死角体验"
   ],
   "minVersion": "1.0.0",
-  "sha256": "bc95aa80493a1ff60d133de0be30fb7dab05ec4bc10be3e5f8de0baa130bedea"
+  "sha256": "3e666cda9813253d34fe9b8a42b15bc09769dda051748217812994a304d234bc"
 }
