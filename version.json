@@ -1,24 +1,24 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.37",
   "pubDate": "2026-11-28",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.36/moyu-pet_1.0.36_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.37/moyu-pet_1.0.37_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.36/moyu-pet_1.0.36_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.37/moyu-pet_1.0.37_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.36",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.37",
   "notes": [
-    "全面升级周/日报生成与导出框架：按当日/当周精准筛选待办、接入全球时区实时结算工时（修复旧待办混入与工时卡在 3.0 小时问题），并支持 6 大岗位视角自然表达",
-    "全新智能多版式自动编排与导出体检引擎：不同章节自动匹配条列、三列看板、时间轴、左右对照与分层指标卡，自动清理空壳卡片、异常指标与重复序号，Word/HTML 同步转为洁净商务排版",
-    "全面去除汇报中的英文眉标与 AI 套话，升级 PPTX 视觉层次（柔和卡片投影、浅底胶囊徽章、舒适中文行距与单页唯一页码），导出即可直接提交"
+    "全面升级 12 套主题原生 PPTX 视觉框架：新增渐变微光氛围底图、暗色半透明磨砂玻璃卡片与无边框精致标签，在 PowerPoint / WPS 中打开即与 App 预览保持 1:1 高级质感，同时 100% 保留全部文字、卡片与原生图表自由编辑",
+    "1:1 精细校准全套中文字号、字重与卡片留白比例：彻底解决 WPS 下粗体偏重、封面多余色块水印、多列编号折行与卡片底部挤占问题",
+    "预览与导出全面同源体检：自动清洗旧缓存草稿中的历史英文标签与异常指标，页脚与图表图例统一精简为自然中文"
   ],
   "minVersion": "1.0.0",
-  "sha256": "865b6cf898add0fc8f480d0ec0b3128af3a15c1b02cb82758b39d64bce5f5f5b"
+  "sha256": "4e3c5c1400ca289fdd593e24d9c055a0a62e93f816e2e9300830c71c05e93224"
 }
