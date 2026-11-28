@@ -1,24 +1,24 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.39",
   "pubDate": "2026-11-28",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.38/moyu-pet_1.0.38_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.39/moyu-pet_1.0.39_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.38/moyu-pet_1.0.38_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.39/moyu-pet_1.0.39_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.38",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.39",
   "notes": [
-    "周/日报全模块深度精修与 24 套版式统一升级：修复封面与卡片顶条圆角错位、深色主题胶囊字对比度与 PDCA 闭环排版，全部 12 套咨询逻辑版式（PDCA/SWOT/漏斗/矩阵/鱼骨/箭头/金字塔等）统一为通透玻璃美学并清除全部残留英文标签",
-    "新增幻灯片画布「双击/点击直接改字」弹窗与桌面级非阻塞轻提示 Toast（彻底去除原生弹窗），修复 WPS/PowerPoint 占用文件时重复导出失败问题（自动递增文件名安全另存）",
-    "修复日报/周报切换覆写草稿、撤销栈跨视图串改、复制与 .md/.txt 导出携带内部注释、封面配图弹窗排版无效以及多微信账号切换草稿未重载等全部细节隐患"
+    "排班与休息制度全面升级：自定义排班新增「月休/排休制」（支持月休 0 天全年无休、2 天、3 天、4 天或任意天数），支持按当月实出勤自动折算日薪（大月 31-N、小月 30-N、2月自动适配）并内嵌迷你月历一键点选本月排休日",
+    "新增「做N休M」循环倒班引擎（预设做四休二/做三休一/做二休一/做六休一与自定义周期 + 今日状态一键校准，跨月永久自动推算），并附带低月休「超级牛马 / 进阶牛马」幽默状态提示条",
+    "考勤与排班月历全模式打通「单日排休 / 顶班」快捷覆盖：任意日期一键设为排休或顶班，全软件实时跳薪、下班倒计时、桌宠状态、加班倍率与考勤缺卡判定自动同步；同步修正非双休模式遇周末法定节假日的带薪计入精度"
   ],
   "minVersion": "1.0.0",
-  "sha256": "ef4ca3d4f1d5a6e5d026b767649c6b522f3312d34c50a38e2b01e83cce799af0"
+  "sha256": "1f9ee54aa9161a80600f4facf2b8086ee9c657586a386731b2eb3037726e9770"
 }
