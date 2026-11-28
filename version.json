@@ -1,23 +1,24 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.36",
   "pubDate": "2026-11-28",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.35/moyu-pet_1.0.35_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.36/moyu-pet_1.0.36_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.35/moyu-pet_1.0.35_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.36/moyu-pet_1.0.36_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.35",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.36",
   "notes": [
-    "优化「薪资与税务」主收益卡片视觉排版：恢复简洁纯粹的经典卡片样式，去除多余内嵌快捷按钮与动态状态圆点，视觉层次更清爽统一",
-    "完整保留 v1.0.34 全部核心能力：待办行内编辑、真实企业/工厂排班与加班费规则（单休/大小周/自定义排班/工厂固定时薪/无加班费）、全球时区统一基准，以及「深蓝鲲鹏娘」「元气豆芽妹」角色更新"
+    "全面升级周/日报生成与导出框架：按当日/当周精准筛选待办、接入全球时区实时结算工时（修复旧待办混入与工时卡在 3.0 小时问题），并支持 6 大岗位视角自然表达",
+    "全新智能多版式自动编排与导出体检引擎：不同章节自动匹配条列、三列看板、时间轴、左右对照与分层指标卡，自动清理空壳卡片、异常指标与重复序号，Word/HTML 同步转为洁净商务排版",
+    "全面去除汇报中的英文眉标与 AI 套话，升级 PPTX 视觉层次（柔和卡片投影、浅底胶囊徽章、舒适中文行距与单页唯一页码），导出即可直接提交"
   ],
   "minVersion": "1.0.0",
-  "sha256": "ab6f5bff1a98b0ee165651104201e0693a6796619b718686e1680138b73e5b4d"
+  "sha256": "865b6cf898add0fc8f480d0ec0b3128af3a15c1b02cb82758b39d64bce5f5f5b"
 }
