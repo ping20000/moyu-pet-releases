@@ -1,24 +1,24 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "pubDate": "2026-11-28",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.37/moyu-pet_1.0.37_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.38/moyu-pet_1.0.38_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.37/moyu-pet_1.0.37_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.38/moyu-pet_1.0.38_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.37",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.38",
   "notes": [
-    "全面升级 12 套主题原生 PPTX 视觉框架：新增渐变微光氛围底图、暗色半透明磨砂玻璃卡片与无边框精致标签，在 PowerPoint / WPS 中打开即与 App 预览保持 1:1 高级质感，同时 100% 保留全部文字、卡片与原生图表自由编辑",
-    "1:1 精细校准全套中文字号、字重与卡片留白比例：彻底解决 WPS 下粗体偏重、封面多余色块水印、多列编号折行与卡片底部挤占问题",
-    "预览与导出全面同源体检：自动清洗旧缓存草稿中的历史英文标签与异常指标，页脚与图表图例统一精简为自然中文"
+    "周/日报全模块深度精修与 24 套版式统一升级：修复封面与卡片顶条圆角错位、深色主题胶囊字对比度与 PDCA 闭环排版，全部 12 套咨询逻辑版式（PDCA/SWOT/漏斗/矩阵/鱼骨/箭头/金字塔等）统一为通透玻璃美学并清除全部残留英文标签",
+    "新增幻灯片画布「双击/点击直接改字」弹窗与桌面级非阻塞轻提示 Toast（彻底去除原生弹窗），修复 WPS/PowerPoint 占用文件时重复导出失败问题（自动递增文件名安全另存）",
+    "修复日报/周报切换覆写草稿、撤销栈跨视图串改、复制与 .md/.txt 导出携带内部注释、封面配图弹窗排版无效以及多微信账号切换草稿未重载等全部细节隐患"
   ],
   "minVersion": "1.0.0",
-  "sha256": "4e3c5c1400ca289fdd593e24d9c055a0a62e93f816e2e9300830c71c05e93224"
+  "sha256": "ef4ca3d4f1d5a6e5d026b767649c6b522f3312d34c50a38e2b01e83cce799af0"
 }
