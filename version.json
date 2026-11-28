@@ -1,25 +1,23 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "pubDate": "2026-11-28",
   "downloads": [
     {
       "name": "国内加速直链（推荐）",
-      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.34/moyu-pet_1.0.34_x64-setup.exe",
+      "url": "https://gh-proxy.com/https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.35/moyu-pet_1.0.35_x64-setup.exe",
       "recommended": true
     },
     {
       "name": "GitHub 官方直链",
-      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.34/moyu-pet_1.0.34_x64-setup.exe"
+      "url": "https://github.com/ping20000/moyu-pet-releases/releases/download/v1.0.35/moyu-pet_1.0.35_x64-setup.exe"
     }
   ],
   "force": false,
-  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.34",
+  "releasePage": "https://github.com/ping20000/moyu-pet-releases/releases/tag/v1.0.35",
   "notes": [
-    "待办清单支持原地行内编辑：每条待办新增「编辑」按钮并支持双击标题快速修改内容、优先级、归属日期与提醒时间，实时同步月历与桌宠气泡",
-    "兼容真实企业/工厂排班与加班费规则：薪资口径抽屉新增双休 / 单休 / 大小周（支持本周校准）/ 自定义排班、是否遵循法定节假日、单日正常工时上限，以及劳动法（支持自定义合同底薪基数）/ 工厂固定时薪 / 自定义倍率 / 无加班费（责任制）",
-    "薪资主看板跳动状态透明化：实时呼吸灯清晰标明「实时跳动中 / 休息日或下班暂停 / 加班计费中」，并支持一键切换「工时计薪 ⇄ 24h 全天跳动」及快捷启停加班",
-    "新增全球时区基准设置（默认自动跟随本机，支持手动切换全球主流时区全链路统一），并将角色名同步更新为「深蓝鲲鹏娘」「元气豆芽妹」"
+    "优化「薪资与税务」主收益卡片视觉排版：恢复简洁纯粹的经典卡片样式，去除多余内嵌快捷按钮与动态状态圆点，视觉层次更清爽统一",
+    "完整保留 v1.0.34 全部核心能力：待办行内编辑、真实企业/工厂排班与加班费规则（单休/大小周/自定义排班/工厂固定时薪/无加班费）、全球时区统一基准，以及「深蓝鲲鹏娘」「元气豆芽妹」角色更新"
   ],
   "minVersion": "1.0.0",
-  "sha256": "e3be6a2017b8f0a01e64c70e4a1c239e0abd723bc90bf8968c0854db043d3224"
+  "sha256": "ab6f5bff1a98b0ee165651104201e0693a6796619b718686e1680138b73e5b4d"
 }
